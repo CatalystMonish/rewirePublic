@@ -3,6 +3,8 @@
   "minimum_required_version": "2.5",
   "force_update": false,
   "title": "REWIRE has a new Update",
-  "message": "We are eager to let you try out the new features!",
+  "title_de": "REWIRE hat ein neues Update",
+  "message": "Added 2 new pro interventions.",
+  "message_de": "2 neue Pro-Interventionen hinzugefügt.",
   "app_store_url": "https://apps.apple.com/app/rewire-dopamine-detox/id6757690221"
 }
