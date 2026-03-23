@@ -1,10 +1,10 @@
 {
-  "latest_version": "2.4.3",
+  "latest_version": "2.4.2",
   "minimum_required_version": "2.4",
   "force_update": false,
   "title": "REWIRE has a new Update",
   "title_de": "REWIRE hat ein neues Update",
-  "message": "Added 2 new pro interventions.",
-  "message_de": "2 neue Pro-Interventionen hinzugefügt.",
+  "message": "You can now change habit icons and rearrange them.",
+  "message_de": "Sie können jetzt die Gewohnheitssymbole ändern und neu anordnen.",
   "app_store_url": "https://apps.apple.com/app/rewire-dopamine-detox/id6757690221"
 }
