@@ -1,10 +1,14 @@
 {
-  "latest_version": "2.4.2",
+  "latest_version": "3.2",
   "minimum_required_version": "2.4",
   "force_update": false,
   "title": "REWIRE has a new Update",
   "title_de": "REWIRE hat ein neues Update",
-  "message": "You can now change habit icons and rearrange them.",
-  "message_de": "Sie können jetzt die Gewohnheitssymbole ändern und neu anordnen.",
+  "title_ja": "REWIRE の新しいアップデート",
+  "title_pt_br": "A REWIRE tem uma nova atualização",
+  "message": "New ways to lock your apps, plus photos in partner chat.",
+  "message_de": "Neue Wege, deine Apps zu sperren, plus Fotos im Partner-Chat.",
+  "message_ja": "アプリをロックする新しい方法と、パートナーチャットの写真。",
+  "message_pt_br": "Novas formas de travar seus apps e fotos no chat com o parceiro.",
   "app_store_url": "https://apps.apple.com/app/rewire-dopamine-detox/id6757690221"
 }
